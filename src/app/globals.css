@@ -3,19 +3,29 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  background-color: black;
+ 
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+
+
+.container{
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+.videoSec{
+  height: 800vh;
+  position: relative;
+
 }
+
+.canvasContainer{
+  position: sticky;
+  top: 0%;
+  right: 50%;
+  transform: translate(-1%,0%); 
+ 
+}
+
