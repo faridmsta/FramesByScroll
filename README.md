@@ -2,9 +2,9 @@
 
 This project enables video frames to be played as the user scrolls up or down the page. A Rolex video has been used as the demo model.
 
-## Demo
+## Link
 
-You can view the live demo at:
+You can view the project by following link:
 
 [rolex-frames.vercel.app](https://rolex-frames.vercel.app/)
 
