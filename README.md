@@ -42,12 +42,7 @@ To run the project locally, follow these steps:
 
 As you scroll down or up the page, video frames will change dynamically, providing a smooth scrolling-based video playback experience.
 
-## Project Structure
 
-- `public/frames/`: Directory containing video frames.
-- `src/`: Main source code of the project.
-- `next.config.ts`: Next.js configuration file.
-- `tailwind.config.ts`: Tailwind CSS configuration file.
 
 ## Technologies Used
 
